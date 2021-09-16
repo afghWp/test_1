@@ -1,0 +1,3 @@
+wiersz1_1 wiersz1_2
+wiersz2
+wiersz3
